@@ -1,0 +1,11 @@
+C:\Users\javidanja\Desktop\homeWork\homeWork\bin\Debug\netcoreapp2.2\homeWork.deps.json
+C:\Users\javidanja\Desktop\homeWork\homeWork\bin\Debug\netcoreapp2.2\homeWork.runtimeconfig.json
+C:\Users\javidanja\Desktop\homeWork\homeWork\bin\Debug\netcoreapp2.2\homeWork.runtimeconfig.dev.json
+C:\Users\javidanja\Desktop\homeWork\homeWork\bin\Debug\netcoreapp2.2\homeWork.dll
+C:\Users\javidanja\Desktop\homeWork\homeWork\bin\Debug\netcoreapp2.2\homeWork.pdb
+C:\Users\javidanja\Desktop\homeWork\homeWork\obj\Debug\netcoreapp2.2\homeWork.csprojAssemblyReference.cache
+C:\Users\javidanja\Desktop\homeWork\homeWork\obj\Debug\netcoreapp2.2\homeWork.csproj.CoreCompileInputs.cache
+C:\Users\javidanja\Desktop\homeWork\homeWork\obj\Debug\netcoreapp2.2\homeWork.AssemblyInfoInputs.cache
+C:\Users\javidanja\Desktop\homeWork\homeWork\obj\Debug\netcoreapp2.2\homeWork.AssemblyInfo.cs
+C:\Users\javidanja\Desktop\homeWork\homeWork\obj\Debug\netcoreapp2.2\homeWork.dll
+C:\Users\javidanja\Desktop\homeWork\homeWork\obj\Debug\netcoreapp2.2\homeWork.pdb
